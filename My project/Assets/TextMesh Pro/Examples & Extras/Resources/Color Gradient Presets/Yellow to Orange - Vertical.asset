@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+  m_Name: Yellow to Orange - Vertical
+  m_EditorClassIdentifier: 
+  colorMode: 3
+  topLeft: {r: 0.94117653, g: 0.43137258, b: 0.6666667, a: 1}
+  topRight: {r: 0.70601726, g: 0.3036074, b: 0.8113208, a: 1}
+  bottomLeft: {r: 0.46226418, g: 0.09012694, b: 0.33253983, a: 1}
+  bottomRight: {r: 0.73333335, g: 0.654902, b: 0.56078434, a: 1}
